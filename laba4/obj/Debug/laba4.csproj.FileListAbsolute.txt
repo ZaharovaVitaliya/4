@@ -1,0 +1,21 @@
+C:\Users\stud022024\C#\laba4\laba4\bin\Debug\laba4.exe.config
+C:\Users\stud022024\C#\laba4\laba4\bin\Debug\laba4.exe
+C:\Users\stud022024\C#\laba4\laba4\bin\Debug\laba4.pdb
+C:\Users\stud022024\C#\laba4\laba4\obj\Debug\laba4.csproj.AssemblyReference.cache
+C:\Users\stud022024\C#\laba4\laba4\obj\Debug\laba4.Form1.resources
+C:\Users\stud022024\C#\laba4\laba4\obj\Debug\laba4.Properties.Resources.resources
+C:\Users\stud022024\C#\laba4\laba4\obj\Debug\laba4.csproj.GenerateResource.cache
+C:\Users\stud022024\C#\laba4\laba4\obj\Debug\laba4.csproj.CoreCompileInputs.cache
+C:\Users\stud022024\C#\laba4\laba4\obj\Debug\laba4.exe
+C:\Users\stud022024\C#\laba4\laba4\obj\Debug\laba4.pdb
+D:\Проекты VS\БД 5 семак\laba4\bin\Debug\laba4.exe.config
+D:\Проекты VS\БД 5 семак\laba4\bin\Debug\laba4.exe
+D:\Проекты VS\БД 5 семак\laba4\bin\Debug\laba4.pdb
+D:\Проекты VS\БД 5 семак\laba4\obj\Debug\laba4.csproj.AssemblyReference.cache
+D:\Проекты VS\БД 5 семак\laba4\obj\Debug\laba4.csproj.SuggestedBindingRedirects.cache
+D:\Проекты VS\БД 5 семак\laba4\obj\Debug\laba4.Form1.resources
+D:\Проекты VS\БД 5 семак\laba4\obj\Debug\laba4.Properties.Resources.resources
+D:\Проекты VS\БД 5 семак\laba4\obj\Debug\laba4.csproj.GenerateResource.cache
+D:\Проекты VS\БД 5 семак\laba4\obj\Debug\laba4.csproj.CoreCompileInputs.cache
+D:\Проекты VS\БД 5 семак\laba4\obj\Debug\laba4.exe
+D:\Проекты VS\БД 5 семак\laba4\obj\Debug\laba4.pdb
